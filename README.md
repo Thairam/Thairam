@@ -15,6 +15,10 @@
 * I like Formula 1 racing :racing_car:
 * I like to learn about the stories of empires, construction, war tactics ... :crossed_swords: 
 
+Follow me:
+
+[![Linkedin](https://badgen.net/badge/Linkedin/thairam-michel?icon=linkedin)](https://www.linkedin.com/in/thairam-michel-80b137196/)
+
 ---
 ### Languages and Tools:
 
