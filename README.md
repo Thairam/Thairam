@@ -6,13 +6,12 @@
 - 🔭 I'm currently working as a Software Quality Analyst, focusing on test automation :robot:
 - 🌱 I'm learning about everything 🤣
 - 👯 I'm looking specialize in software testing and learn more about software development
-- 🥅 Goals for 2020: Get certified [CTFL](https://www.bstqb.org.br/sobre-ctfl)
+- 🥅 Goals for 2021: Get certified [CTFL](https://www.bstqb.org.br/sobre-ctfl)
 
 ⚡ **More about me:** 
 * I like competitions in programming :2nd_place_medal: :2nd_place_medal: :3rd_place_medal:
 * I love reading books 📕
 * I like to learn about stock investments :chart_with_upwards_trend:
-* I like Formula 1 racing :racing_car:
 * I like to learn about the stories of empires, construction, war tactics ... :crossed_swords: 
 
 Follow me:
