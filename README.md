@@ -2,11 +2,10 @@
 
 ---
 
-#### Hi, I'm a Software Quality Analyst from Brazil, 26 years old and 3 years of experience in Tests Automation 🧐.
-- 🔭 I'm currently working as a Software Quality Analyst, focusing on test automation :robot:
+#### Hi, I'm a Software Tester Engineer from Brazil, 26 years old and 3 years of experience in Tests Automation 🧐.
+- 🔭 I'm currently working as a Software Tester Engineer, focusing on test automation :robot:
 - 🌱 I'm learning about everything 🤣
 - 👯 I'm looking specialize in software testing and learn more about software development
-- 🥅 Goals for 2021: Get certified [CTFL](https://www.bstqb.org.br/sobre-ctfl)
 
 ⚡ **More about me:** 
 * I like competitions in programming :2nd_place_medal: :2nd_place_medal: :3rd_place_medal:
