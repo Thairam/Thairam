@@ -58,8 +58,7 @@ Follow me:
 
 [<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/macos/macos.png" />][macos]
 
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />][Docker]
-
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 <br />
 <br />
 
