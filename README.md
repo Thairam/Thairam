@@ -2,7 +2,7 @@
 
 ---
 
-#### Hi, I'm a Software Testing Engineer from Brazil, 26 years old and 3 years of experience in Tests Automation 🧐.
+#### Hi, I'm a Software Testing Engineer from Brazil, 27 years old and 3 years of experience in Tests Automation 🧐.
 - 🔭 I'm currently working as a Software Testing Engineer, focusing on test automation :robot:
 - 🌱 I'm learning about everything 🤣
 - 👯 I'm looking specialize in software testing and learn more about software development
@@ -57,6 +57,8 @@ Follow me:
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />][windows]
 
 [<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/macos/macos.png" />][macos]
+
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />][Docker]
 
 <br />
 <br />
