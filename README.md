@@ -2,7 +2,7 @@
 
 ---
 
-#### Hi, I'm a Software Testing Engineer from Brazil, 27 years old and 3 years of experience in Tests Automation 🧐.
+#### Hi, I'm a Software Testing Engineer from Brazil, 27 years old and 5 years of experience in Tests Automation 🧐.
 - 🔭 I'm currently working as a Software Testing Engineer, focusing on test automation :robot:
 - 🌱 I'm learning about everything 🤣
 - 👯 I'm looking specialize in software testing and learn more about software development
@@ -10,8 +10,9 @@
 ⚡ **More about me:** 
 * I like competitions in programming :2nd_place_medal: :2nd_place_medal: :3rd_place_medal:
 * I love reading books 📕
+* I like to learn about personal improvement 🙏
 * I like to learn about stock investments :chart_with_upwards_trend:
-* I like to learn about the stories of empires, construction, war tactics ... :crossed_swords: 
+* I like to learn about the stories of empires, construction, war tactics ... :crossed_swords:
 
 Follow me:
 
