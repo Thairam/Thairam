@@ -2,7 +2,7 @@
 
 ---
 
-#### Hi, I'm a Software Testing Engineer from Brazil, 27 years old and 5 years of experience in Tests Automation 🧐.
+#### Hi, I'm a Software Testing Engineer from Brazil, 28 years old and 5 years of experience in Tests Automation 🧐.
 - 🔭 I'm currently working as a Software Testing Engineer, focusing on test automation :robot:
 - 🌱 I'm learning about everything 🤣
 - 👯 I'm looking specialize in software testing and learn more about software development
